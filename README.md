@@ -1,20 +1,16 @@
-<style>
-  mark{
-    background-color: yellow;
-  }
-</style>
-
 <div id="doc" class="markdown-body container-fluid comment-enabled" data-hard-breaks="false">
     <h1 id="My-First-Profile-Page" data-id="My-First-Profile-Page"><span>My First Profile Page</span></h1>
     <h2 id="Website-Structure" data-id="Website-Structure"><span>Website Structure</span></h2>
     <p>
-        <span>The </span><strong><span>Laptop</span></strong><span> object is the most important part of this page. I made a login animation and a </span><strong><span>Tiny Functional Terminal</span></strong><span> that visitors can </span>
-        <mark><span>check for more information</span></mark><span>.Here is the </span><a href="https://www.youtube.com/" target="_blank" rel="noopener"><span>link</span></a><span> of video instructions on youtube .</span>
+        <span>The </span><strong><span>Laptop</span></strong><span> object is the most important part of this page. I made a login animation and a </span><strong><span>Tiny Functional Terminal</span></strong>
+        <span> that visitors can </span> <mark style="color: yellow;"><span>check for more information</span></mark><span>.Here is the </span><a href="https://www.youtube.com/" target="_blank" rel="noopener"><span>link</span></a>
+        <span> of video instructions on youtube .</span>
     </p>
     <h2 id="Introduction" data-id="Introduction"><span>Introduction</span></h2>
     <p>
         <span>This is my </span><strong><span>first</span></strong>
-        <span> front-end project ! I got the main design idea when I was sleeping . As a beginner to HTML , CSS , Javascript , it’s truly a tough experience . For all the Code , I guarantee that </span><mark><span>99%</span></mark>
+        <span> front-end project ! I got the main design idea when I was sleeping . As a beginner to HTML , CSS , Javascript , it’s truly a tough experience . For all the Code , I guarantee that </span>
+        <mark style="color: yellow;"><span>99%</span></mark>
         <span> of which is program by myself ( 1% from StackOverFlow to solve some strange problem (●__●) ) .</span>
         <span>Inspiration</span>
         <span>
