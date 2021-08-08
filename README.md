@@ -36,4 +36,11 @@
         </span>
     </p>
     <p><span>(edit in:2021/8/5)</span></p>
+    <h2 id="Bug" data-id="Bug"><span>Bud</span></h2>
+    <p>
+        <span>
+            My classmate YOYO-lee found BUGs in my website several days ago , I will try to fix them later .QAQ
+        </span>
+    </p>
+    <p><span>(edit in:2021/8/8)</span></p>
 </div>
